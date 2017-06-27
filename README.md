@@ -13,7 +13,8 @@ Nowadays I'm building the SSH enviroment to JSP nynamic website.
 About util 7,1,2017.
 
 ### page
-There is a protoltype of the [gudagudaACG](http://r.photo.store.qq.com/psb?/V10ic0vo3PZg8m/3U7JIuPrGmsx4gkeyrhNukDmcCzCE6Xhhih3jpdCsZk!/r/dDwBAAAAAAAA).
+There is a protoltype of the gudagudaACG.
+![gudagudaACG](http://r.photo.store.qq.com/psb?/V10ic0vo3PZg8m/3U7JIuPrGmsx4gkeyrhNukDmcCzCE6Xhhih3jpdCsZk!/r/dDwBAAAAAAAA).
 
 ## LiberalHD
 
